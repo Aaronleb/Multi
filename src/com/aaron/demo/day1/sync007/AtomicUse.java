@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync007;
+package com.aaron.demo.day1.sync007;
 
 import java.util.ArrayList;
 import java.util.List;

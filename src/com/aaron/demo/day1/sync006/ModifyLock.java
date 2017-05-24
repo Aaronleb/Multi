@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync006;
+package com.aaron.demo.day1.sync006;
 /**
  * 同一对象属性的修改不会影响锁的情况
  * @author alienware

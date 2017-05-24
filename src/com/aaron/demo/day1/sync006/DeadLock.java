@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync006;
+package com.aaron.demo.day1.sync006;
 
 /**
  * 死锁问题，在设计程序时就应该避免双方相互持有对方的锁的情况

@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync005;
+package com.aaron.demo.day1.sync005;
 /**
  * synchronized异常
  * @author alienware

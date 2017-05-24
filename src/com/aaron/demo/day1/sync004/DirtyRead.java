@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync004;
+package com.aaron.demo.day1.sync004;
 /**
  * 业务整体需要使用完整的synchronized，保持业务的原子性。
  * @author alienware

@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync002;
+package com.aaron.demo.day1.sync002;
 /**
  * 关键字synchronized取得的锁都是对象锁，而不是把一段代码（方法）当做锁，
  * 所以代码中哪个线程先执行synchronized关键字的方法，哪个线程就持有该方法所属对象的锁（Lock），

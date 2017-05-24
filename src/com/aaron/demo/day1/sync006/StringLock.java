@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync006;
+package com.aaron.demo.day1.sync006;
 /**
  * synchronized代码块对字符串的锁，注意String常量池的缓存功能
  * @author alienware

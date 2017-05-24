@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync006;
+package com.aaron.demo.day1.sync006;
 
 /**
  * 使用synchronized代码块加锁,比较灵活

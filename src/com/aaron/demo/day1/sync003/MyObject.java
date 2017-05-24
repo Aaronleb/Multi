@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync003;
+package com.aaron.demo.day1.sync003;
 
 /**
  * 对象锁的同步和异步问题

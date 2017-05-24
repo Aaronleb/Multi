@@ -1,4 +1,4 @@
-package com.aaron.demo.firstday.sync005;
+package com.aaron.demo.day1.sync005;
 /**
  * synchronized的重入
  * @author alienware
